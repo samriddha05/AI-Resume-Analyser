@@ -1,0 +1,46 @@
+REQUIREMENTS & SETUP INSTRUCTIONS
+
+1.  Prerequisites
+
+-   Ensure that your machine has the following installed:
+    -   Node.js (latest LTS version recommended)
+    -   npm (comes with Node.js)
+    -   A modern web browser (Chrome, Edge, or Firefox)
+    -   Code editor (e.g., VS Code)
+
+2.  Initial Setup
+
+-   Before running the project, make sure your system is properly
+    configured.
+-   Open a terminal/command prompt in the project directory.
+
+3.  Important File Conversion
+
+-   If there are any .txt files provided in the project:
+    -   Rename/convert them to .js files before execution.
+    -   Example: file.txt → file.js
+-   This step is necessary for the project to function correctly.
+
+4.  Install Dependencies
+
+-   Run the following command in the terminal: npm install
+
+5.  Running the Project
+
+-   After installation, start the project using: npm start OR node
+    index.js (depending on project structure)
+
+6.  Notes
+
+-   Ensure all required files are correctly placed in their respective
+    directories.
+-   Do not skip the file conversion step, as it may cause runtime
+    errors.
+-   If errors occur, re-check dependencies and file naming.
+
+7.  Optional
+
+-   If using a frontend, open the browser and navigate to:
+    http://localhost:3000 (or the specified port)
+
+END OF FILE
